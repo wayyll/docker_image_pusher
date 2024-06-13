@@ -5,4 +5,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 altran1502/immich-server:v1.106.3
+jxxghp/moviepilot:latest
 
