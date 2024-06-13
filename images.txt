@@ -7,4 +7,5 @@
 altran1502/immich-server:v1.106.3
 jxxghp/moviepilot:latest
 linuxserver/qbittorrent:4.6.5
+linuxserver/emby:arm64v8-4.9.0-beta
 
