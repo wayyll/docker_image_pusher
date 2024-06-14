@@ -11,4 +11,4 @@ xiaoyaliu/alist:latest
 emby/embyserver:4.8.0.56
 xiaoyaliu/glue:latest
 resilio/sync:latest
-
+kangkang223/openwrt:z4
