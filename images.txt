@@ -7,4 +7,6 @@
 linuxserver/qbittorrent:4.6.5
 linuxserver/emby:arm64v8-4.9.0-beta
 aooiu/any-reader:master
+xiaoyaliu/alist:latest
+emby/embyserver:4.8.0.56
 
