@@ -14,4 +14,4 @@ resilio/sync:latest
 kangkang223/openwrt:z4
 herberthe0229/iptv-sources
 ddsderek/wxchat:latest
-amilys/embyserver
+amilys/embyserver:latest
